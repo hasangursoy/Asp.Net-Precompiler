@@ -7,3 +7,6 @@ X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\AspN
 X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net Precompiler.csproj.GenerateResource.Cache
 X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net Pre-compiler.exe
 X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net Pre-compiler.pdb
+C:\Users\Lenovo\Documents\GitHub\Asp.Net-Precompiler\Asp.Net Precompiler\bin\Debug\Asp.Net Pre-compiler.exe.config
+C:\Users\Lenovo\Documents\GitHub\Asp.Net-Precompiler\Asp.Net Precompiler\obj\Debug\Asp.Net Pre-compiler.exe
+C:\Users\Lenovo\Documents\GitHub\Asp.Net-Precompiler\Asp.Net Precompiler\obj\Debug\Asp.Net Pre-compiler.pdb
