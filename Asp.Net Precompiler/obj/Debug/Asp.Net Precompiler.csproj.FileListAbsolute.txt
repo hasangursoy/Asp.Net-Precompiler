@@ -1,0 +1,9 @@
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\bin\Debug\Asp.Net Pre-compiler.exe.config
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\bin\Debug\Asp.Net Pre-compiler.exe
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\bin\Debug\Asp.Net Pre-compiler.pdb
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net Precompiler.csprojResolveAssemblyReference.cache
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net_Precompiler.frmMain.resources
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\AspNetPrecompiler.Properties.Resources.resources
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net Precompiler.csproj.GenerateResource.Cache
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net Pre-compiler.exe
+X:\Projects\Applications\Asp.Net Pre-compiler\Asp.Net Precompiler\obj\Debug\Asp.Net Pre-compiler.pdb
